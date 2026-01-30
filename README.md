@@ -1,37 +1,129 @@
-## 👋 Olá, eu sou o Douglas Vinicius!
+<!--
+README de Perfil — Douglas Vinicius (Vivet)
+Repo sugerido: ViniciusVivet/ViniciusVivet
+-->
 
-🚀 Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio, apaixonado por construir soluções tecnológicas e mergulhar no mundo do **desenvolvimento web** e **automação de processos**.
+<h1 align="center">👋 Eu sou o Douglas Vinicius (Vivet)</h1>
 
-Atualmente, estou focado em aprimorar minhas habilidades com:
+<p align="center">
+  🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas (Estácio)</b> <br/>
+  👨🏽‍🏫 Estagiário / Instrutor de Informática desde <b>ago/2025</b> <br/>
+  ⚙️ Foco atual: <b>Back-end</b>, <b>arquitetura</b>, <b>APIs</b> e <b>boas práticas</b>
+</p>
 
-* 🌐 **Front-end:** HTML, CSS, JavaScript (e explorando mais frameworks!)
-* 🐍 **Back-end/Automação:** Python, Lógica de Programação
-* 🛠️ **Ferramentas:** Git, GitHub, Visual Studio Code
-* 🗃️ **Dados:** Fundamentos de Banco de Dados
-
-Gosto de desenvolver diariamente **projetos pessoais** para solidificar meu aprendizado.
-
-Com mais de 6 anos de experiência em atendimento ao cliente, vendas e eventos, trago para a área de tecnologia:
-* 🗣️ **Excelentes habilidades de comunicação e interpessoais**
-* 💪 **Resiliência e senso de urgência**
-* 💡 **Capacidade de adaptação e resolução de problemas**
-
-Sou autodidata, comunicativo e colaborativo, sempre buscando oportunidades para aplicar meus conhecimentos e evoluir em um time.
-
----
-
-### 🔍 Estou Aberto a Oportunidades:
-
-Busco **Estágio** ou posição **Júnior** nas áreas de:
-* Desenvolvimento Web
-* QA (Quality Assurance)
-* Suporte Técnico
-* Automação e Dados
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivetsp">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:douglasvivet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ViniciusVivet">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🌐 Conecte-se comigo!
+## 🧠 Sobre mim (sem enrolação)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivetsp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusVivet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasvivet@gmail.com)
+Sou instrutor de informática e curto muito a parte prática: **ensinar**, **montar projetos**, **documentar**, **testar** e deixar o código com cara de “trampo real”.
+No dia a dia, ajudo alunos a evoluírem em tecnologia com aulas de **Excel Avançado**, **Lógica**, **SQL**, **Robótica (Arduino)** e **Web (HTML/CSS/JS)**.
+
+Paralelamente, estou em transição total para desenvolvimento — com foco em **Back-end (.NET / C#)**, **arquitetura de sistemas** e **engenharia de software**.
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+### Back-end & Arquitetura
+![.NET](https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Modern-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![REST](https://img.shields.io/badge/APIs-REST-0B5FFF?style=for-the-badge&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+- **.NET 8 / C#**
+- **APIs REST**, **Swagger/OpenAPI**
+- **Autenticação & Autorização (JWT)** *(e explorando OIDC/Keycloak)*
+- **Arquitetura (Clean / DDD / Microsserviços)** *(quando faz sentido)*
+- **API Gateway (YARP)** *(em projetos/estudos)*
+- **Mensageria (RabbitMQ)** *(em projetos/estudos)*
+- **Testes com xUnit** + **FluentValidation**
+
+### Banco de Dados & Dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Data-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Data-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Entity Framework Core**
+- **SQL Server / MySQL**
+- **PostgreSQL** *(explorando com Supabase nos projetos Web)*  
+- Modelagem e fundamentos de BD
+
+### Web / Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![TypeScript](https://img.shields.io/badge/TypeScript-Web-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Apps-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+- **HTML / CSS / JavaScript**
+- **TypeScript / Next.js** *(nos projetos mais recentes)*
+
+### Extras (porque o mundo real pede)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Versioning-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- **Python (automação & lógica)**
+- **Git/GitHub**, documentação e organização de projetos  
+- **Java** *(base + estudos — uso em desafios/bootcamps)*
+
+---
+
+## 📌 Projetos em destaque (pra ver código de verdade)
+
+> A ideia aqui é: **projeto com objetivo**, **readme bem feito** e evolução visível.
+
+- 🧩 **KitCerto** — fullstack com foco em arquitetura, auth e dashboard  
+  👉 https://github.com/ViniciusVivet/KitCerto
+
+- 👘 **YUME Atelier** — experiência de catálogo imersiva (Next.js + Supabase + animações)  
+  👉 https://github.com/ViniciusVivet/yume-atelier
+
+- 🌍 **Orbitamos** — ecossistema/portal (produto + impacto + tecnologia)  
+  👉 https://github.com/ViniciusVivet/Orbitamos
+
+- 🎁 **PresenteParaAline** — web interativa com foco em UX/UI e animações  
+  👉 https://github.com/ViniciusVivet/PresenteParaAline
+
+- 🎬 **CinemaBrunoUI** — app em **C# / Avalonia** (CRUD + UI)  
+  👉 https://github.com/ViniciusVivet/CinemaBrunoUI
+
+---
+
+## 🔎 Estou aberto a oportunidades
+
+🎯 Busco **Estágio** ou **Júnior** nas áreas de:
+- Back-end (**.NET / C# / APIs / SQL**)
+- Fullstack (quando o projeto pede)
+- Automação / Dados (Python + SQL)
+
+Se curtir algum repo, chama no LinkedIn — curto trocar ideia e aprender com feedback.
+
+---
+
+## 📊 GitHub (opcional, mas fica bonito)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniciusVivet&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVivet&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistência ganha de talento quando talento não tem consistência.”</i> ⚡
+</p>
