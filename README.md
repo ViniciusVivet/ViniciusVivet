@@ -112,4 +112,4 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 - Fullstack (quando o projeto pede)
 - Automação / Dados (Python + SQL)
 
-Se curtir algum repo, entre em contato pelos email ou LinkedLn !
+Se curtir algum repo, entre em contato pelo email ou Linkedin !
