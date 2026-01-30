@@ -100,6 +100,7 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
   👉 https://github.com/ViniciusVivet/PresenteParaAline
 
 - ✅ **BoardDeTarefasJava** — Projeto prático em Java simulando um board de tarefas (POO + padrões + CLI)
+
   👉 https://github.com/ViniciusVivet/BoardDeTarefasJava
 
 ---
