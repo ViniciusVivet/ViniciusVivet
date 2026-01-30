@@ -25,10 +25,10 @@ Repo sugerido: ViniciusVivet/ViniciusVivet
 
 ---
 
-## 🧠 Sobre mim (sem enrolação)
+## 🧠 Sobre mim 
 
-Sou instrutor de informática e curto muito a parte prática: **ensinar**, **montar projetos**, **documentar**, **testar** e deixar o código com cara de “trampo real”.
-No dia a dia, ajudo alunos a evoluírem em tecnologia com aulas de **Excel Avançado**, **Lógica**, **SQL**, **Robótica (Arduino)** e **Web (HTML/CSS/JS)**.
+Sou instrutor de informática e curto muito a parte prática: **ensinar**, **montar projetos**, **documentar**, **testar** e criar coisas novas.
+No dia a dia, ajudo alunos a evoluírem em tecnologia com aulas de **C#**, **Excel Avançado**, **Lógica**, **SQL**, **Robótica (Arduino)** e **Web (HTML/CSS/JS)**.
 
 Paralelamente, estou em transição total para desenvolvimento — com foco em **Back-end (.NET / C#)**, **arquitetura de sistemas** e **engenharia de software**.
 
@@ -47,7 +47,7 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 - **.NET 8 / C#**
 - **APIs REST**, **Swagger/OpenAPI**
 - **Autenticação & Autorização (JWT)** *(e explorando OIDC/Keycloak)*
-- **Arquitetura (Clean / DDD / Microsserviços)** *(quando faz sentido)*
+- **Arquitetura (Clean / DDD / Microsserviços)** 
 - **API Gateway (YARP)** *(em projetos/estudos)*
 - **Mensageria (RabbitMQ)** *(em projetos/estudos)*
 - **Testes com xUnit** + **FluentValidation**
@@ -83,7 +83,7 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 
 ---
 
-## 📌 Projetos em destaque (pra ver código de verdade)
+## 📌 Projetos em destaque : 
 
 > A ideia aqui é: **projeto com objetivo**, **readme bem feito** e evolução visível.
 
@@ -99,8 +99,8 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 - 🎁 **PresenteParaAline** — web interativa com foco em UX/UI e animações  
   👉 https://github.com/ViniciusVivet/PresenteParaAline
 
-- 🎬 **CinemaBrunoUI** — app em **C# / Avalonia** (CRUD + UI)  
-  👉 https://github.com/ViniciusVivet/CinemaBrunoUI
+- ✅ **BoardDeTarefasJava** — Projeto prático em Java simulando um board de tarefas (POO + padrões + CLI)
+  👉 https://github.com/ViniciusVivet/BoardDeTarefasJava
 
 ---
 
@@ -111,19 +111,4 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 - Fullstack (quando o projeto pede)
 - Automação / Dados (Python + SQL)
 
-Se curtir algum repo, chama no LinkedIn — curto trocar ideia e aprender com feedback.
-
----
-
-## 📊 GitHub (opcional, mas fica bonito)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniciusVivet&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVivet&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  <i>“Consistência ganha de talento quando talento não tem consistência.”</i> ⚡
-</p>
+Se curtir algum repo, entre em contato pelos email ou LinkedLn !
