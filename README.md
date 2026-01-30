@@ -86,7 +86,6 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 
 ## 📌 Projetos em destaque : 
 
-> A ideia aqui é: **projeto com objetivo**, **readme bem feito** e evolução visível.
 
 - 🧩 **KitCerto** — fullstack com foco em arquitetura, auth e dashboard  
   👉 https://github.com/ViniciusVivet/KitCerto
