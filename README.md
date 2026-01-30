@@ -72,14 +72,15 @@ Paralelamente, estou em transição total para desenvolvimento — com foco em *
 - **HTML / CSS / JavaScript**
 - **TypeScript / Next.js** *(nos projetos mais recentes)*
 
-### Extras (porque o mundo real pede)
+### 🧩 Extras
+![Java](https://img.shields.io/badge/Java-POO%20%26%20Fundamentos-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Versioning-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)
 
+- **Java (POO + fundamentos / desafios & bootcamps)**
 - **Python (automação & lógica)**
-- **Git/GitHub**, documentação e organização de projetos  
-- **Java** *(base + estudos — uso em desafios/bootcamps)*
+- **Git**, versionamento e organização do código
+
 
 ---
 
